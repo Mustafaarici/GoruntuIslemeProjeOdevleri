@@ -1,0 +1,24 @@
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\StepMotorUygulaması.exe.config
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\StepMotorUygulaması.exe
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\StepMotorUygulaması.pdb
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Video.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Video.xml
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.xml
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.Form1.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.exe
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.pdb
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Imaging.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Math.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Imaging.xml
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Math.xml
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Vision.dll
+c:\users\mustafa\documents\visual studio 2013\Projects\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\AForge.Vision.xml
+C:\Users\Mustafa\Desktop\StepMotorUygulaması\StepMotorUygulaması\bin\Debug\StepMotorUygulaması.exe.config
+C:\Users\Mustafa\Desktop\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.exe
+C:\Users\Mustafa\Desktop\StepMotorUygulaması\StepMotorUygulaması\obj\Debug\StepMotorUygulaması.pdb
