@@ -1,0 +1,29 @@
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\Görüntüislemeservoo.exe.config
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.Form1.resources
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.Properties.Resources.resources
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.csproj.GenerateResource.Cache
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\Görüntüislemeservoo.exe
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\Görüntüislemeservoo.pdb
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Imaging.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Video.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Vision.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Math.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Imaging.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Video.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Vision.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Math.xml
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.exe
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.pdb
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Mustafa\documents\visual studio 2013\Projects\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Mustafa\Desktop\Görüntüislemeservoo\Görüntüislemeservoo\bin\Debug\Görüntüislemeservoo.exe.config
+C:\Users\Mustafa\Desktop\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.exe
+C:\Users\Mustafa\Desktop\Görüntüislemeservoo\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.pdb
+C:\Users\Mustafa\Desktop\Kol Pozisyonu İle Servo Motor Kontrolü\Görüntüislemeservoo\bin\Debug\Görüntüislemeservoo.exe.config
+C:\Users\Mustafa\Desktop\Kol Pozisyonu İle Servo Motor Kontrolü\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.exe
+C:\Users\Mustafa\Desktop\Kol Pozisyonu İle Servo Motor Kontrolü\Görüntüislemeservoo\obj\Debug\Görüntüislemeservoo.pdb
